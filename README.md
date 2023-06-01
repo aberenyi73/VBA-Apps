@@ -7,7 +7,7 @@ This repository has some fun and interesting VBA application, runnable in Excel 
 Convay's famous game of life came to life in Excel... Don't laugh yet
 
 Files:
-* GameOfLife 20Apr2023.xlsm
+* GameOfLife/GameOfLife 20Apr2023.xlsm
 
 How to play:
 1. Download the file "GameOfLife 20Apr2023.xlsm"
